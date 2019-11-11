@@ -1,1 +1,3 @@
 Project.cpp stores BIgInteger Class Implementation
+It supports addition, substraction and multiplication of both positive as well as negative integers which can be out of bound in C++
+Operator overloading of + , - , * , << and >> has also been done.
